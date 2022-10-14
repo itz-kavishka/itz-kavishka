@@ -104,25 +104,5 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kavishkaya&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 
 
-<style>
-  /* Custom width for the Scrollbar */
- ::-webkit-scrollbar {
-  width: 10px;
-  }
-  /* Custom Track */
-  ::-webkit-scrollbar-track {
-  box-shadow: inset 0 0 5px #342e52;
-  border-radius: 10px;
-  background: linear-gradient(#1f164d, rgb(209, 209, 209));
-  }
-  /* Handle */
-  ::-webkit-scrollbar-thumb {
-  background: linear-gradient(#342e52, rgb(255, 255, 255));
-  border-radius: 10px;
-  }
-  /* Handle on hover */
-  ::-webkit-scrollbar-thumb:hover {
-  background: linear-gradient(#2e2753, rgb(209, 209, 209));
-  }
-  </style>
+
 
