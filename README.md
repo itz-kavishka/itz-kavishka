@@ -31,14 +31,14 @@
 ### Connect with me:
 
 
-[<img align="left" alt="kavishka-sandaruwan.ml" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] [WEB SITE][website]      
-[<img align="left" alt="kavishka | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] [YOUTUBE][youtube]     
-[<img align="left" alt="kavishka | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] [TWITTER][twitter]      
-[<img align="left" alt="kavishka | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][twitter] [LINKEDIN][twitter]      
-[<img align="left" alt="kavishka | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] [INSTERGRAM][instagram]      
-[<img align="left" alt="kavishka | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tiktok.svg" />][tiktok] [TIKTOK][tiktok]     
-[<img align="left" alt="kavishka | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook] [FACEBOOK][facebook]     
-[<img align="left" alt="kavishka | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spotify.svg" />][spotify] [SPOTIFY][spotify]    
+[<img align="left" alt="kavishka-sandaruwan.ml" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] [WEB SITE][website]
+[<img align="left" alt="kavishka | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] [YOUTUBE][youtube]
+[<img align="left" alt="kavishka | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] [TWITTER][twitter]
+[<img align="left" alt="kavishka | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][twitter] [LINKEDIN][twitter]
+[<img align="left" alt="kavishka | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] [INSTERGRAM][instagram]
+[<img align="left" alt="kavishka | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tiktok.svg" />][tiktok] [TIKTOK][tiktok]
+[<img align="left" alt="kavishka | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook] [FACEBOOK][facebook]
+[<img align="left" alt="kavishka | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spotify.svg" />][spotify] [SPOTIFY][spotify]
 
 
 <br />
