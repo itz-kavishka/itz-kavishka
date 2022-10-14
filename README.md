@@ -7,7 +7,7 @@
 </div>
 
 <div align="center"><div class= 'kask'>
-  <img src="images/profileimage.jpg" width="250" height="250">
+  <img src="images/profilephoto.jpg" width="250" height="250">
   </div>
   <style>
 .kask img{
