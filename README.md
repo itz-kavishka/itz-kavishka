@@ -13,7 +13,7 @@
 
 ### Hi there, I'm KAVISHKA [SANDARUWAN][website] 👋
 
-[![Website](https://img.shields.io/website?label=www.kavishka-sandaruwan.ml&style=for-the-badge&url=https://www.kavishka-sandaruwan.ml)](https://www.kavishka-sandaruwan.ml)
+[![Website](https://img.shields.io/website?label=www.kavishka-sandaruwan.ml&style=for-the-badge&url=https://kavishka-sandaruwan.ml)](https://www.kavishka-sandaruwan.ml)
 [![Twitter Follow](https://img.shields.io/twitter/follow/kavishka__0?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=kavishka__0)
 
 ## I'm a Student & Developer!!
