@@ -5,8 +5,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Patua+One&size=24&vCenter=true&lines=You+are+welcome+to+my+github+profile;My+name+is+Kavishka+Sandaruwan;This+is+my+github+account+;Thanks+for+watching+my+github+profile)
 
 </div>
-
+<div align="center" >
   <img src="images/profilephoto.jpg" width="250" height="250" style="border-radius:30%">
+  </div>
   <h1>KAVISHKA SANDARUWAN</h1>
 </div>
 
