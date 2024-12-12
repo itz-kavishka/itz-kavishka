@@ -65,7 +65,7 @@
 
 ---
 
- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=itz-kavishka&theme=radical" alt="itz-kavishka" /></p>         
+
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itz-kavishka&show_icons=true&locale=en&layout=compact&theme=radical" alt="itz-kavishka" /></p>    
 
